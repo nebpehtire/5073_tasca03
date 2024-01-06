@@ -24,7 +24,7 @@ Asegúrate de tener instalado lo siguiente:
 2. Ejecuta la aplicación Flask.
 
     ```bash
-    python predict_service.py
+    poetry run python 5073_tasca03/predict_service.py
     ```
 
 La aplicación se iniciará en `localhost` en el puerto `8000`.
